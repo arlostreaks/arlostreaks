@@ -17,7 +17,7 @@ I am a Game Developer 👾, Full-Stack Web Developer </>🌐👨🏻‍💻 , an
 About creating cutting-edge digital solutions and consistently push the boundaries of innovation in the tech industry. I’m always open to new opportunities where I can apply my skills and continue to grow in the fast-evolving world of technology.
 
 <h3 aling="left">Achievements 🥳:</h3>
-✅Successfully led the development of various interactive games and high-performance web applications.-
+✅Successfully led the development of various interactive games and high-performance web applications.
 ✅Delivered scalable solutions for web and mobile platforms that have significantly enhanced user engagement.
 ✅Played a key role in integrating AI and ML models into applications to provide personalized experiences and advanced analytics.
 
