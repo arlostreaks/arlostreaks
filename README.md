@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm WAQAS BUTT</h1>
 <h3 align="center">A Passionate Full-Stack Web/App Developer, Generative AI Developer From Pakistan</h3>
 <div align="center"> <img src="https://github.com/arlostreaks/waqasbutt/blob/main/picwaqasbutt.jpeg"></div>
+# My GitHub Profile
+
+[![GitArtwork](./gitartwork.svg)](https://github.com/arlostreaks/arlostreaks/blob/main/gitartwork.svg)
+
+## Other Information
+Add more about your profile here.
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> 
 </p>
