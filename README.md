@@ -10,16 +10,20 @@
 <img src="https://img.shields.io/badge/Joined-2024-blue?style=for-the-badge&logo=github" alt="Views">
 
 
-<h3 aling="left">ABOUT ME 🙋‍♂️ :</h3>
-I am a Game Developer 👾, Full-Stack Web Developer </>🌐👨🏻‍💻 , and App Developer📱📲👨‍💻with expertise in Unity, React, Node.js, Python, and MongoDB. My skills extend to Machine Learning, Deep Learning, Neural Networks, and Computer Graphics Design. I also have experience in Digital Marketing and can communicate fluently in English, Chinese 🇨🇳, and German 🇩🇪.
+<h3 align="left">ABOUT ME 🙋‍♂️ :</h3>
+<p align="left">
+I am a Game Developer 👾, Full-Stack Web Developer 🌐👨🏻‍💻, and App Developer 📱📲👨‍💻 with expertise in Unity, React, Node.js, Python, and MongoDB. My skills extend to Machine Learning, Deep Learning, Neural Networks, and Computer Graphics Design. I also have experience in Digital Marketing and can communicate fluently in English, Chinese 🇨🇳, and German 🇩🇪.</p>
+
 
 <h3 aling="left">🗣️ I am passionate 🔥:</h3>
 About creating cutting-edge digital solutions and consistently push the boundaries of innovation in the tech industry. I’m always open to new opportunities where I can apply my skills and continue to grow in the fast-evolving world of technology.
 
-<h3 aling="left">Achievements 🥳:</h3>
-✅Successfully led the development of various interactive games and high-performance web applications.
-✅Delivered scalable solutions for web and mobile platforms that have significantly enhanced user engagement.
-✅Played a key role in integrating AI and ML models into applications to provide personalized experiences and advanced analytics.
+
+### Achievements 🥳:
+- ✅Successfully led the development of various interactive games and high-performance web applications.
+- ✅Delivered scalable solutions for web and mobile platforms that have significantly enhanced user engagement.
+- ✅Played a key role in integrating AI and ML models into applications to provide personalized experiences and advanced analytics.
+
 
 <h3 aling="left">👨‍💻 All of my projects are available at:</h3>[https://github.com/arlostreaks]
 
