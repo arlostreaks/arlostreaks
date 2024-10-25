@@ -21,7 +21,7 @@ About creating cutting-edge digital solutions and consistently push the boundari
 ✅Delivered scalable solutions for web and mobile platforms that have significantly enhanced user engagement.
 ✅Played a key role in integrating AI and ML models into applications to provide personalized experiences and advanced analytics.
 
-<h3 aling="left">👨‍💻 All of my projects are available at:</h3>[https://github.com/arlostreaks](https://github.com/arlostreaks)
+<h3 aling="left">👨‍💻 All of my projects are available at:</h3>[https://github.com/arlostreaks]
 
 <h3 aling="left">📫 How to reach me:</h3> arlo.streak@gmail.com
 <h3 align="left">🔌Connect with me:</h3>
